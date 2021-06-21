@@ -7,5 +7,5 @@ A simple web app to calculate cohen's kappa with streamlit and scikit-learn
 - pip install numpy
 - pip install altair
 
-Usage
+# Usage
 streamlit run kappa_app.py
